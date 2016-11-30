@@ -2,7 +2,7 @@
 #
 # passgen
 #
-# Generate Random Password
+# Generate Random Password (of 10 chars)
 #
 # Launch this bash exectable simply with ./passgen.sh
 # and after a random password of 10 characters will appear.
